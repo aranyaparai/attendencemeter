@@ -15,7 +15,7 @@ React Native (Expo)
 JavaScript / TypeScript
 AsyncStorage (for local data storage)
 React Navigation
-
+AI tools were used to assist with learning, debugging
 📱 App Preview
 <img width="1080" height="2400" alt="homepage" src="https://github.com/user-attachments/assets/e9093fd3-d1f3-4841-b0f3-ec6a5b93f6ba" />
 <img width="1080" height="2400" alt="subjects adding section" src="https://github.com/user-attachments/assets/8e0dc2f7-d964-4207-b624-795aeec3aed7" />
