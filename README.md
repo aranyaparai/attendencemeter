@@ -3,19 +3,19 @@
 This is a mobile application built to help students manage and track their class attendance easily. Users can add subjects, mark attendance (present/absent), and automatically calculate attendance percentage for each subject.
 
 🚀 Features
-Add multiple subjects
-Mark attendance as Present / Absent
-Automatic attendance percentage calculation
-Track number of classes attended
-Simple and user-friendly interface
-Built for students to avoid manual tracking
+.Add multiple subjects
+.Mark attendance as Present / Absent
+.Automatic attendance percentage calculation
+.Track number of classes attended
+.Simple and user-friendly interface
+.Built for students to avoid manual tracking
 
 🛠️ Tech Stack
-React Native (Expo)
-JavaScript / TypeScript
-AsyncStorage (for local data storage)
-React Navigation
-AI tools were used to assist with learning, debugging 
+.React Native (Expo)
+.JavaScript / TypeScript
+.AsyncStorage (for local data storage)
+.React Navigation
+.AI tools were used to assist with learning, debugging 
 
 📱 App Preview
 <img width="1080" height="2400" alt="homepage" src="https://github.com/user-attachments/assets/e9093fd3-d1f3-4841-b0f3-ec6a5b93f6ba" />
@@ -25,9 +25,9 @@ AI tools were used to assist with learning, debugging
 <img width="1080" height="2400" alt="notes" src="https://github.com/user-attachments/assets/235a17be-c121-4890-8b5e-82b1e6e50a0e" />
 
 📌 Future Improvements
-Push notifications for attendance alerts
-Cloud sync using Firebase
-Login system for students
-Graphical attendance analytics
+.Push notifications for attendance alerts
+.Cloud sync using Firebase
+.Login system for students
+.Graphical attendance analytics
 
 
